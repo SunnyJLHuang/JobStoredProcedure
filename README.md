@@ -1,2 +1,4 @@
 # JobStoredProcedure
-存储过程。方便使用
+stored procedure in SQLServer
+there sample： JobReportAnalysis， ModuleAnalysis，JobAvgTime
+
